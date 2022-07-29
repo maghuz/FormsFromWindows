@@ -1,5 +1,5 @@
 # FormsFromWindows
-The following script presents a graphical interface using python with a message that addresses, the user to fill out an online form when a button is executed, in addition to having disabled the control of the window, preventing the user from not complying with the request, this will only be closed when the user is allowed to enter the link for the survey 
+The following script presents a graphical interface using python with a message that invites the user to fill out an inline form when the button is executed, it also disables the window control, preventing the user from failing to comply with the request.
 
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/110196579/181846518-7050a091-4cc7-4abc-890c-2e69ce2428fe.png">
